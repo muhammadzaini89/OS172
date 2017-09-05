@@ -1,0 +1,22 @@
+total 76
+drwxr-xr-x 18 muhammad.zaini71 StafCS 4096 Sep  5 14:56 .
+drwx--x--x  4 muhammad.zaini71 StafCS 4096 Sep  5 14:53 ..
+drwxr-xr-x  8 muhammad.zaini71 StafCS 4096 Sep  5 14:55 .git
+drwxr-xr-x  2 muhammad.zaini71 StafCS 4096 Sep  5 14:25 key
+-rw-r--r--  1 muhammad.zaini71 StafCS    0 Sep  5 14:58 lab01.txt
+drwxr-xr-x  2 muhammad.zaini71 StafCS 4096 Sep  5 14:24 log
+-rw-r--r--  1 muhammad.zaini71 StafCS    7 Sep  5 14:09 README.md
+drwxr-xr-x  2 muhammad.zaini71 StafCS 4096 Sep  5 14:34 sandbox
+drwxr-xr-x  2 muhammad.zaini71 StafCS 4096 Sep  5 14:55 week00
+drwxr-xr-x  2 muhammad.zaini71 StafCS 4096 Sep  5 14:22 week01
+drwxr-xr-x  2 muhammad.zaini71 StafCS 4096 Sep  5 14:22 week02
+drwxr-xr-x  2 muhammad.zaini71 StafCS 4096 Sep  5 14:22 week03
+drwxr-xr-x  2 muhammad.zaini71 StafCS 4096 Sep  5 14:23 week04
+drwxr-xr-x  2 muhammad.zaini71 StafCS 4096 Sep  5 14:23 week05
+drwxr-xr-x  2 muhammad.zaini71 StafCS 4096 Sep  5 14:23 week06
+drwxr-xr-x  2 muhammad.zaini71 StafCS 4096 Sep  5 14:23 week07
+drwxr-xr-x  2 muhammad.zaini71 StafCS 4096 Sep  5 14:23 week08
+drwxr-xr-x  2 muhammad.zaini71 StafCS 4096 Sep  5 14:24 week09
+drwxr-xr-x  2 muhammad.zaini71 StafCS 4096 Sep  5 14:24 week10
+drwxr-xr-x  2 muhammad.zaini71 StafCS 4096 Sep  5 14:25 xtra
+/home/fasilkom/mahasiswa/m/muhammad.zaini71/OS172/week01
