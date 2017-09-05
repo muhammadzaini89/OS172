@@ -1,0 +1,7 @@
+I have learned about simple script in Linux
+i must have a github account
+i have learned about git clone
+about change directory about make folders about listing files in directory
+about make a file about delete file about edittext with script
+about add into my repository
+about git status about git pull and git push
