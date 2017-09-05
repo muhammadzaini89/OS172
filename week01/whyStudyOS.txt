@@ -1,1 +1,6 @@
 #muhammadzaini89
+I have learned about
+Login to badak.cs.ui.ac.id through Kawung.cs.ui.ac.id
+Login github
+Clone github with command git clone
+etc
