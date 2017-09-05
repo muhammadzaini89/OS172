@@ -20,3 +20,4 @@ drwxr-xr-x  2 muhammad.zaini71 StafCS 4096 Sep  5 14:24 week09
 drwxr-xr-x  2 muhammad.zaini71 StafCS 4096 Sep  5 14:24 week10
 drwxr-xr-x  2 muhammad.zaini71 StafCS 4096 Sep  5 14:25 xtra
 /home/fasilkom/mahasiswa/m/muhammad.zaini71/OS172/week01
+Today is 05 Sep 2017 at 16:39:25
