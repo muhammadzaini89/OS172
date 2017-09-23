@@ -1,0 +1,7 @@
+total 16
+drwxr-xr-x 2 muhammad.zaini71 StafCS 4096 Sep 15 16:55 .
+drwxr-xr-x 3 muhammad.zaini71 StafCS 4096 Sep 15 16:16 ..
+-rw-r--r-- 1 muhammad.zaini71 StafCS 1611 Sep 15 16:39 00-toc.txt
+-rw-r--r-- 1 muhammad.zaini71 StafCS 3158 Sep 15 16:39 01-public-osteam.txt
+-rw-r--r-- 1 muhammad.zaini71 StafCS    0 Sep 15 16:55 02-ls-al.txt
+-rw-r--r-- 1 muhammad.zaini71 StafCS    0 Sep 15 16:31 asdf

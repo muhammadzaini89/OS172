@@ -1,0 +1,6 @@
+/home/fasilkom/mahasiswa/m/muhammad.zaini71/.gnupg/pubring.gpg
+--------------------------------------------------------------
+pub   4096R/8A9BF8EA 2017-09-16 [expires: 2018-03-15]
+uid                  MUHAMMAD ZAINI DAHLAN A (belajar os asik) <muhammad.zaini71@ui.ac.id>
+sub   4096R/8A801794 2017-09-16 [expires: 2018-03-15]
+
