@@ -1,0 +1,2 @@
+
+Hello, this is explanation about linux booting!
