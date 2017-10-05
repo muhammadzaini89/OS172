@@ -1,0 +1,12 @@
+=======================================
+huruflokal0: value =  q, address = 0x7ffe032c5faf
+huruflokal1: value =  w, address = 0x7ffe032c5fae
+huruflokal2: value =  e, address = 0x7ffe032c5fad
+huruflokal3: value =  r, address = 0x7ffe032c5fac
+=======================================
+=======================================
+huruflokal0: value =  q, address = 0x7ffd4854261f
+huruflokal1: value =  w, address = 0x7ffd4854261e
+huruflokal2: value =  e, address = 0x7ffd4854261d
+huruflokal3: value =  r, address = 0x7ffd4854261c
+=======================================

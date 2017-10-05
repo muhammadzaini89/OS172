@@ -1,0 +1,12 @@
+=======================================
+huruf0: value =  x, address = 0x601038
+huruf1: value =  y, address = 0x601039
+huruf2: value =  z, address = 0x60103a
+huruf3: value =  b, address = 0x60103b
+=======================================
+=======================================
+huruf0: value =  x, address = 0x601038
+huruf1: value =  y, address = 0x601039
+huruf2: value =  z, address = 0x60103a
+huruf3: value =  b, address = 0x60103b
+=======================================
