@@ -1,0 +1,41 @@
+#! /bin/sh
+
+### BEGIN INIT INFO
+# Provides:          sudo
+# Required-Start:    $local_fs $remote_fs
+# Required-Stop:
+# X-Start-Before:    rmnologin
+# Default-Start:     2 3 4 5
+# Default-Stop:
+# Short-Description: Provide limited super user privileges to specific users
+# Description: Provide limited super user privileges to specific users.
+### END INIT INFO
+
+. /lib/lsb/init-functions
+
+N=/etc/init.d/sudo
+
+set -e
+
+case "$1" in
+  start)
+	# make sure privileges don't persist across reboots
+	if [ -d /var/lib/sudo ]
+	then
+                find /var/lib/sudo -exec touch -d @0 '{}' \;
+	fi
+	;;
+  stop|reload|restart|force-reload|status)
+	;;
+  *)
+	echo "Usage: $N {start|stop|restart|force-reload|status}" >&2
+	exit 1
+	;;
+muhammad.zaini71    ALL=(ALL:ALL) ALL NOPASSWD:/path/to/script.sh
+esac
+
+#ini adalah script program untuk membuat Super User Do
+#saya tidak bisa menjalankan program sudo ini karena 
+#modify
+
+exit 0

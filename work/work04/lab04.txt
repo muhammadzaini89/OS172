@@ -1,0 +1,14 @@
+a. What are the differences about the code and the output from both program?
+	The difference of global address and local address is place of declare the variable.
+		Local address has declared in the function
+		But global address has declared the variable before the function
+	The difference of Output from 2 program is global address constantly and local addres always chance 
+
+
+b. Why Global Variable Address number and Local Variable Address number
+have a great difference in their address?
+	Because  
+
+
+
+

@@ -1,0 +1,13 @@
+SHA1SUM.asc
+
+Hello, this is explanation about linux booting!
+
+
+BIOS
+MBR
+GRUB
+KERNEL
+INTI
+RUN LEVEL
+
+sumber http://www.thegeekstuff.com/2011/02/Linux-boot-process
