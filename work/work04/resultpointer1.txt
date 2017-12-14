@@ -1,0 +1,4 @@
+hurufpointer0: val=a, adr=0x601030
+hurufpointer1: val=s, adr=0x601031
+hurufpointer2: val=d, adr=0x601032
+hurufpointer3: val=f, adr=0x601033

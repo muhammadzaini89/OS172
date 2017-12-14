@@ -6,8 +6,17 @@ a. What are the differences about the code and the output from both program?
 
 
 b. Why Global Variable Address number and Local Variable Address number
-have a great difference in their address?
-	Because  
+have a great difference in their address?q
+	Because local address use 16 bit and global use 8 bit
+	
+
+c. Write your knowledge about Global Variable Address and Local Variable
+Address
+
+	Local address is address of value that saved constantly  in  16 bit
+	Global address is address that changeable and saved in 8 bit 
+	(sumber operating system consepts second edition)
+
 
 
 

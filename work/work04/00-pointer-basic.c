@@ -18,7 +18,8 @@ void main(void){
 	printf("hurufpointer2: val=%c, adr=%p\n",hurufpointer2, &hurufpointer2);
 	printf("hurufpointer3: val=%c, adr=%p\n",hurufpointer3, &hurufpointer3);
 
-	printf("ptrchr0: pts=%c, val=%p, adr=%p\n", *ptrchr0, ptrchr0, &ptrchr0);
+char** ptrptr0=&ptrchr0;
+printf("ptrchr0: pts=%c, val=%p, adr=%p\n", *ptrchr0, ptrchr0, &ptrchr0);
 
 }
 
